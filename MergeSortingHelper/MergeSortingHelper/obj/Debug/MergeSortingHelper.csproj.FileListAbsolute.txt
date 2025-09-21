@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MergeSortingHelper\MergeSortingHelper\bin\Debug\MergeSortingHelper.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MergeSortingHelper\MergeSortingHelper\bin\Debug\MergeSortingHelper.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MergeSortingHelper\MergeSortingHelper\bin\Debug\MergeSortingHelper.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MergeSortingHelper\MergeSortingHelper\obj\Debug\MergeSortingHelper.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MergeSortingHelper\MergeSortingHelper\obj\Debug\MergeSortingHelper.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MergeSortingHelper\MergeSortingHelper\obj\Debug\MergeSortingHelper.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MergeSortingHelper\MergeSortingHelper\obj\Debug\MergeSortingHelper.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MergeSortingHelper\MergeSortingHelper\obj\Debug\MergeSortingHelper.exe.config
