@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CountingSortHelper\CountingSortHelper\bin\Debug\CountingSortHelper.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CountingSortHelper\CountingSortHelper\bin\Debug\CountingSortHelper.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CountingSortHelper\CountingSortHelper\bin\Debug\CountingSortHelper.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CountingSortHelper\CountingSortHelper\obj\Debug\CountingSortHelper.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CountingSortHelper\CountingSortHelper\obj\Debug\CountingSortHelper.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CountingSortHelper\CountingSortHelper\obj\Debug\CountingSortHelper.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CountingSortHelper\CountingSortHelper\obj\Debug\CountingSortHelper.pdb
