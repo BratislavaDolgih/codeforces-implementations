@@ -9,7 +9,8 @@ namespace MergeSortingHelper
     class MergeSorting
     {
         private MergeSorting() { }
-        
+
+        public static long inversions = 0;
         public static void MergeSort(int[] arr)
         {
             if (arr.Length < 2) return;
@@ -44,6 +45,7 @@ namespace MergeSortingHelper
                 } else
                 {
                     result[k++] = right[j++];
+                    inversions += (left.Length - i);
                 }
             }
 
@@ -59,8 +61,9 @@ namespace MergeSortingHelper
         {
             int n = int.Parse(Console.ReadLine());
             int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            MergeSorting.inversions = 0;
             MergeSorting.MergeSort(arr);
-            Console.WriteLine(string.Join(" ", arr));
+            Console.WriteLine($"{MergeSorting.inversions}");
         }
     }
 }
