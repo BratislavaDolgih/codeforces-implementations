@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CopiesBinary\CopiesBinary\obj\Debug\CopiesBinary.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CopiesBinary\CopiesBinary\obj\Debug\CopiesBinary.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CopiesBinary\CopiesBinary\bin\Debug\CopiesBinary.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CopiesBinary\CopiesBinary\bin\Debug\CopiesBinary.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CopiesBinary\CopiesBinary\bin\Debug\CopiesBinary.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CopiesBinary\CopiesBinary\obj\Debug\CopiesBinary.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CopiesBinary\CopiesBinary\obj\Debug\CopiesBinary.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\CopiesBinary\CopiesBinary\obj\Debug\CopiesBinary.exe.config
