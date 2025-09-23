@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\BinaryFloatSearch\BinaryFloatSearch\bin\Debug\BinaryFloatSearch.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\BinaryFloatSearch\BinaryFloatSearch\bin\Debug\BinaryFloatSearch.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\BinaryFloatSearch\BinaryFloatSearch\bin\Debug\BinaryFloatSearch.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\BinaryFloatSearch\BinaryFloatSearch\obj\Debug\BinaryFloatSearch.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\BinaryFloatSearch\BinaryFloatSearch\obj\Debug\BinaryFloatSearch.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\BinaryFloatSearch\BinaryFloatSearch\obj\Debug\BinaryFloatSearch.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\BinaryFloatSearch\BinaryFloatSearch\obj\Debug\BinaryFloatSearch.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\BinaryFloatSearch\BinaryFloatSearch\obj\Debug\BinaryFloatSearch.exe.config
