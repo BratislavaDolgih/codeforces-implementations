@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernarySearch", "ConsoleApp1\TernarySearch.csproj", "{94E92AEF-1CEB-4417-BAF4-9D37E4C3A6B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94E92AEF-1CEB-4417-BAF4-9D37E4C3A6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E92AEF-1CEB-4417-BAF4-9D37E4C3A6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E92AEF-1CEB-4417-BAF4-9D37E4C3A6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E92AEF-1CEB-4417-BAF4-9D37E4C3A6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A2A004-82FE-4FB1-8C61-60077A3F438A}
+	EndGlobalSection
+EndGlobal
