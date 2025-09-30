@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\KArray\KArray\bin\Debug\KArray.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\KArray\KArray\bin\Debug\KArray.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\KArray\KArray\bin\Debug\KArray.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\KArray\KArray\obj\Debug\KArray.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\KArray\KArray\obj\Debug\KArray.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\KArray\KArray\obj\Debug\KArray.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\KArray\KArray\obj\Debug\KArray.pdb
