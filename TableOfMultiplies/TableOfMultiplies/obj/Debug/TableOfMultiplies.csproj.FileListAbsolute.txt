@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\TableOfMultiplies\TableOfMultiplies\bin\Debug\TableOfMultiplies.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\TableOfMultiplies\TableOfMultiplies\bin\Debug\TableOfMultiplies.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\TableOfMultiplies\TableOfMultiplies\bin\Debug\TableOfMultiplies.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\TableOfMultiplies\TableOfMultiplies\obj\Debug\TableOfMultiplies.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\TableOfMultiplies\TableOfMultiplies\obj\Debug\TableOfMultiplies.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\TableOfMultiplies\TableOfMultiplies\obj\Debug\TableOfMultiplies.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\TableOfMultiplies\TableOfMultiplies\obj\Debug\TableOfMultiplies.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\TableOfMultiplies\TableOfMultiplies\obj\Debug\TableOfMultiplies.exe.config
