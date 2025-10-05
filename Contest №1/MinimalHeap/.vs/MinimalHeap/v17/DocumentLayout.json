@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\codeforces-rep\\MinimalHeap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90D351-1879-4D24-99A3-C0EDF59C2E0C}|MinimalHeap\\MinimalHeap.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\codeforces-rep\\minimalheap\\minimalheap\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90D351-1879-4D24-99A3-C0EDF59C2E0C}|MinimalHeap\\MinimalHeap.csproj|solutionrelative:minimalheap\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90D351-1879-4D24-99A3-C0EDF59C2E0C}|MinimalHeap\\MinimalHeap.csproj|C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\codeforces-rep\\MinimalHeap\\minimalheap\\maxheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90D351-1879-4D24-99A3-C0EDF59C2E0C}|MinimalHeap\\MinimalHeap.csproj|solutionrelative:minimalheap\\maxheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaxHeap.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\codeforces-rep\\MinimalHeap\\MinimalHeap\\MaxHeap.cs",
+              "RelativeDocumentMoniker": "MinimalHeap\\MaxHeap.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\codeforces-rep\\MinimalHeap\\MinimalHeap\\MaxHeap.cs",
+              "RelativeToolTip": "MinimalHeap\\MaxHeap.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAIwKsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:13:04.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinHeap.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\codeforces-rep\\MinimalHeap\\MinimalHeap\\MinHeap.cs",
+              "RelativeDocumentMoniker": "MinimalHeap\\MinHeap.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\codeforces-rep\\MinimalHeap\\MinimalHeap\\MinHeap.cs",
+              "RelativeToolTip": "MinimalHeap\\MinHeap.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv44AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:06:38.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

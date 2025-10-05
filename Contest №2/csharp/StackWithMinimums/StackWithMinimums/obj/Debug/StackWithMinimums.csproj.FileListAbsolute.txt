@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\StackWithMinimums\StackWithMinimums\bin\Debug\StackWithMinimums.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\StackWithMinimums\StackWithMinimums\bin\Debug\StackWithMinimums.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\StackWithMinimums\StackWithMinimums\bin\Debug\StackWithMinimums.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\StackWithMinimums\StackWithMinimums\obj\Debug\StackWithMinimums.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\StackWithMinimums\StackWithMinimums\obj\Debug\StackWithMinimums.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\StackWithMinimums\StackWithMinimums\obj\Debug\StackWithMinimums.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\StackWithMinimums\StackWithMinimums\obj\Debug\StackWithMinimums.pdb
