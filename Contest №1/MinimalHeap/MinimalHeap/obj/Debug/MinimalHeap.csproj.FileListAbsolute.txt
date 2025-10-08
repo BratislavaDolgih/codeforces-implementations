@@ -6,3 +6,11 @@ C:\Users\User333\Desktop\Универ (универсальное)\«Конст�
 C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MinimalHeap\MinimalHeap\obj\Debug\MinimalHeap.exe
 C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MinimalHeap\MinimalHeap\obj\Debug\MinimalHeap.pdb
 C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\MinimalHeap\MinimalHeap\obj\Debug\MinimalHeap.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №1\MinimalHeap\MinimalHeap\bin\Debug\MinimalHeap.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №1\MinimalHeap\MinimalHeap\bin\Debug\MinimalHeap.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №1\MinimalHeap\MinimalHeap\bin\Debug\MinimalHeap.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №1\MinimalHeap\MinimalHeap\obj\Debug\MinimalHeap.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №1\MinimalHeap\MinimalHeap\obj\Debug\MinimalHeap.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №1\MinimalHeap\MinimalHeap\obj\Debug\MinimalHeap.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №1\MinimalHeap\MinimalHeap\obj\Debug\MinimalHeap.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №1\MinimalHeap\MinimalHeap\obj\Debug\MinimalHeap.pdb

@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\DequeTest\DequeTest\obj\Debug\DequeTest.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\DequeTest\DequeTest\obj\Debug\DequeTest.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\DequeTest\DequeTest\bin\Debug\DequeTest.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\DequeTest\DequeTest\bin\Debug\DequeTest.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\DequeTest\DequeTest\bin\Debug\DequeTest.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\DequeTest\DequeTest\obj\Debug\DequeTest.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\DequeTest\DequeTest\obj\Debug\DequeTest.pdb

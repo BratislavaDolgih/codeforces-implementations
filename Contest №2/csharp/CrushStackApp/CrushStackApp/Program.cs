@@ -1,76 +1,66 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace October.Algorithms
 {
-    public class CrushStack
-    {
-        private CrushGroup[] data;
-        private int topIndex;
-        private const int DEFAULT_CAPACITY = 1000;
-
-        public CrushStack()
-        {
-            data = new CrushGroup[DEFAULT_CAPACITY];
-            topIndex = -1;
-        }
-
-        public void Push(CrushGroup crushes)
-        {
-            EnsureCapacity();
-            data[++topIndex] = crushes;
-        }
-
-        public CrushGroup Pop()
-        {
-            if (IsEmpty()) throw new InvalidOperationException("Stack is empty");
-            CrushGroup poppingGroup = data[topIndex];
-            data[topIndex--] = null;
-            return poppingGroup;
-        }
-
-        public CrushGroup Peek()
-        {
-            if (IsEmpty()) throw new InvalidOperationException("Stack is empty");
-            return data[topIndex];
-        }
-
-        private void EnsureCapacity()
-        {
-            if (Size() == data.Length)
-            {
-                CrushGroup[] newData = new CrushGroup[data.Length * 2];
-                Array.Copy(data, newData, data.Length);
-                data = newData;
-            }
-        }
-
-        public bool IsEmpty()
-        {
-            return topIndex == -1;
-        }
-
-        private int Size()
-        {
-            return topIndex + 1;
-        }
-    }
-
-    public class CrushGroup
-    {
-        private byte colour;
-        private int amount;
-        public byte Colour() => this.colour;
-        public int Amount() => this.amount;
-
-        public CrushGroup(byte clr, int amt)
-        {
-            colour = clr; amount = amt;
-        }
-    }
-
     public class CrushBallsAnalog
     {
+        public static void Main(string[] args)
+        {
+            int[] balls = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+            Stack<int> s = new Stack<int>();
+            int totalScore = 0;
+
+            for (int i = 0; i < balls.Length; ++i)
+            {
+                if (s.Count > 2 && balls[i] != s.Peek())
+                {
+                    int topBall = s.Pop();
+                    int secondBall = s.Pop();
+
+                    if (s.Peek() == secondBall && s.Peek() == topBall)
+                    {
+                        totalScore += 2;
+
+                        while (s.Count > 0 && topBall == s.Peek())
+                        {
+                            totalScore++;
+                            s.Pop();
+                        }
+                    }
+                    else
+                    {
+                        s.Push(secondBall);
+                        s.Push(topBall);
+                    }
+                }
+                s.Push(balls[i]);
+            }
+
+            if (s.Count > 2)
+            {
+                int topBall = s.Pop();
+                int secondBall = s.Pop();
+
+                if (s.Peek() == secondBall && s.Peek() == topBall)
+                {
+                    totalScore += 2;
+
+                    while (s.Count > 0 && topBall == s.Peek())
+                    {
+                        totalScore++;
+                        s.Pop();
+                    }
+                }
+            }
+
+            Console.WriteLine(totalScore);
+        }
+    }
+}
+/*
         public static void Main(string[] args)
         {
             byte[] balls = Console.ReadLine().Split(' ').Select(byte.Parse).ToArray();
@@ -108,5 +98,4 @@ namespace October.Algorithms
 
             Console.WriteLine(totalScore);
         }
-    }
-}
+        */

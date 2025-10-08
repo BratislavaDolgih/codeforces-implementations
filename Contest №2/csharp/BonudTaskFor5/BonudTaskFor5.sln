@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonudTaskFor5", "BonudTaskFor5\BonudTaskFor5.csproj", "{6D85116A-E737-48B2-8D34-B3726E95BEA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D85116A-E737-48B2-8D34-B3726E95BEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D85116A-E737-48B2-8D34-B3726E95BEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D85116A-E737-48B2-8D34-B3726E95BEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D85116A-E737-48B2-8D34-B3726E95BEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D5D2C64-0162-4321-9A1F-2ABF436A23ED}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\GoblinsAndLords\GoblinsAndLords\bin\Debug\GoblinsAndLords.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\GoblinsAndLords\GoblinsAndLords\bin\Debug\GoblinsAndLords.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\GoblinsAndLords\GoblinsAndLords\bin\Debug\GoblinsAndLords.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\GoblinsAndLords\GoblinsAndLords\obj\Debug\GoblinsAndLords.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\GoblinsAndLords\GoblinsAndLords\obj\Debug\GoblinsAndLords.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\GoblinsAndLords\GoblinsAndLords\obj\Debug\GoblinsAndLords.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\codeforces-rep\Contest №2\csharp\GoblinsAndLords\GoblinsAndLords\obj\Debug\GoblinsAndLords.pdb
