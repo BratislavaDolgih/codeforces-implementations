@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\XPDSU\XPDSU\bin\Debug\XPDSU.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\XPDSU\XPDSU\bin\Debug\XPDSU.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\XPDSU\XPDSU\bin\Debug\XPDSU.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\XPDSU\XPDSU\obj\Debug\XPDSU.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\XPDSU\XPDSU\obj\Debug\XPDSU.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\XPDSU\XPDSU\obj\Debug\XPDSU.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\XPDSU\XPDSU\obj\Debug\XPDSU.pdb

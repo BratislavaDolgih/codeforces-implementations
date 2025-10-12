@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DSUBase\DSUBase\bin\Debug\DSUBase.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DSUBase\DSUBase\bin\Debug\DSUBase.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DSUBase\DSUBase\bin\Debug\DSUBase.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DSUBase\DSUBase\obj\Debug\DSUBase.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DSUBase\DSUBase\obj\Debug\DSUBase.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DSUBase\DSUBase\obj\Debug\DSUBase.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DSUBase\DSUBase\obj\Debug\DSUBase.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DSUBase\DSUBase\obj\Debug\DSUBase.exe.config

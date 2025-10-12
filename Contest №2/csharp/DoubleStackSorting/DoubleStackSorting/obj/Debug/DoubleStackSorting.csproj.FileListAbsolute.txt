@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DoubleStackSorting\DoubleStackSorting\bin\Debug\DoubleStackSorting.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DoubleStackSorting\DoubleStackSorting\bin\Debug\DoubleStackSorting.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DoubleStackSorting\DoubleStackSorting\bin\Debug\DoubleStackSorting.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DoubleStackSorting\DoubleStackSorting\obj\Debug\DoubleStackSorting.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DoubleStackSorting\DoubleStackSorting\obj\Debug\DoubleStackSorting.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DoubleStackSorting\DoubleStackSorting\obj\Debug\DoubleStackSorting.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DoubleStackSorting\DoubleStackSorting\obj\Debug\DoubleStackSorting.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\DoubleStackSorting\DoubleStackSorting\obj\Debug\DoubleStackSorting.exe.config
